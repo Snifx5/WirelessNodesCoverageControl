@@ -11,7 +11,7 @@ To set up a development environment quickly, first install Python 3. It comes wi
 
 Install use librarys:
 
-pip install -r requirements.txt
+pip install -r use_package.txt
 
 Detailed instructions
 
